@@ -1,10 +1,10 @@
-## Olá! Eu sou o Álvaro 👋
+<p align="center">## Olá! Eu sou o Álvaro 👋</p>
 
 Sou um profissional com uma paixão em **criar experiências digitais intuitivas e visualmente agradáveis**. Minha jornada combina o mundo do **UX/UI Design** com a prática do **Desenvolvimento Web**, permitindo-me atuar em todas as etapas de um projeto, desde a concepção da ideia até sua implementação final.
 
 ---
 
-### 🎓 Formação
+<p align="center">### 🎓 Formação</p>
 
 * **Análise e Desenvolvimento de Sistemas**
 * **Certificação Profissional Google UX Design** pelo Coursera
@@ -12,7 +12,7 @@ Sou um profissional com uma paixão em **criar experiências digitais intuitivas
 
 ---
 
-### 🛠️ Linguagens, Frameworks e Ferramentas
+<p align="center">### 🛠️ Linguagens, Frameworks e Ferramentas</p>
 
 
 <p align="center">
@@ -23,7 +23,7 @@ Sou um profissional com uma paixão em **criar experiências digitais intuitivas
 
 ---
 
-### 📫 Conecte-se Comigo
+<p align="center">### 📫 Conecte-se Comigo</p>
 
 | Contato | Link |
 | :---: | :---: |
